@@ -1,4 +1,3 @@
 # Git_test
-My first Github Repo!
+My first Github Repository!
 Hello Odin!
-jalara en git?
